@@ -17,7 +17,7 @@ This project provides a functional backend to an ecommerce website. This app wil
   Run npm install for the project to function. Use mysql to source the database then use "npm run seed" to pre seed the app. Finally run npm start to add a listener on port 3001. It is reccomended to use insomnia or a similar program to test each of the routes.
 
 ## Usage
-  Within insomnia or your program of choice, go to the correct local host. Each route is accessed using /api/*insert route here*/*optionally insert specific id here*. Get will display the seeded information. Post requests can be used to create new data. Put requests can modify attributes of existing data. And delete requests can remove an object by its ID.
+  Within insomnia or your program of choice, go to the correct local host. Each route is accessed using /api/*insert route here*/*optionally insert specific id here*. Get will display the seeded information. Post requests can be used to create new data. Put requests can modify attributes of existing data. Delete requests can remove an object by its ID.
 
 ## Screenshots
 ![Screenshot1](https://github.com/Copernichris/E-Commerce_Backend/blob/main/DEMO/getAll.png)
